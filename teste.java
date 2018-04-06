@@ -7,7 +7,7 @@ public class teste {
         int a,b,d;
         
         a = 6;
-        b = 0;
+        b = 2;
         d = a/b;
         
         System.out.println("resultado: "+d);
